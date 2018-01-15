@@ -4,7 +4,7 @@
 int main() {
 
   char str[100];
-
+  printf("A new feature!!");
   printf("Enter name: ");
 
   scanf("%s", str);
